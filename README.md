@@ -1,8 +1,8 @@
-# Date: 14-10-2025
-# Name: NAVEENKUMAR V
-# Register Number: 25016071
 # Exno:1
 Data Cleaning Process
+
+# Name: NAVEENKUMAR V
+# Register Number: 25016071
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
