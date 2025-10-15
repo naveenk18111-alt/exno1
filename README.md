@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1 Data Cleaning Process
 
 # Name: NAVEENKUMAR V
 # Register Number: 25016071
